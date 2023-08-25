@@ -1,6 +1,6 @@
-  <h1 align="center">Hello there. it's Edward1Stark</h1>
+<h1 align="center">Hello there. it's Edward1Stark</h1>
 <h3 align="center">Edward stark</h3>
-<link rel="stylesheet" href="<iframe src="https:media.tenor.com5ry-200hErMAAAAdhacker-hacker-man.gif">
+
 - 🌱 I’m currently learning **C++ / HTML / CSS / RUBER DUCKY**
 
 - 📫 How to reach me **edward1stark@gmail.com**
@@ -18,15 +18,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Edward1Stark"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Edward1Stark" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edward1stark&show_icons=true&locale=en&layout=compact" alt="edward1stark" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edward1stark&show_icons=true&locale=en" alt="edward1stark" /></p>
-
-<!--
-**Edward1Stark/Edward1Stark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
