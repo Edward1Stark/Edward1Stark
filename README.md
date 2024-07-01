@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rf hacking**
   
-- 👾 check out my products on **edwardstark.website**
+- 👾 check out my products on **www.edwardstark.website**
   
 - 📫 How to reach me **edward1stark@gmail.com**
 
