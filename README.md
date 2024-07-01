@@ -1,8 +1,10 @@
-<h1 align="center">Hello there. it's Edward1Stark</h1>
-<h3 align="center">Edward stark</h3>
+<h1 align="center">Hi. it's Edward1Stark</h1>
+<h3 align="center">Intrsted in cyber security, electronic/robotic, Iot and network stuff </h3>
 
-- 🌱 I’m currently learning **C++ / HTML / CSS / RUBER DUCKY**
-
+- 🌱 I’m currently learning **Rf hacking**
+  
+- 👾 check out my products on **edwardstark.website**
+  
 - 📫 How to reach me **edward1stark@gmail.com**
 
 - ⚡ Fun fact **nothing**
