@@ -16,11 +16,3 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
 
-###
-  <a class="cm-entity" href="https://www.youtube.com/@Edward1Stark" target="_blank" style="text-decoration: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
-</div>
-<img src="https://raw.githubusercontent.com/Edward1stark/Edward1stark/output/snake.svg" alt="Snake animation" />
-
-###
