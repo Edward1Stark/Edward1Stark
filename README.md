@@ -24,3 +24,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
   </a>
 </div>
+<img src="https://raw.githubusercontent.com/Edward1stark/Edward1stark/output/snake.svg" alt="Snake animation" />
+
+###
