@@ -1,13 +1,11 @@
 <h1 align="center">Hi. it's Edward1Stark</h1>
-<h3 align="center">Intrsted in cyber security, electronic/robotic, Iot and network stuff </h3>
+<p align="center">Intrsted in cyber security, electronic/robotic, Iot and network stuff </p>
 
 - 🌱 I’m currently learning Rf hacking
   
 - 👾 check out my products on www.edwardstark.website
   
 - 📫 How to reach me edward1stark@gmail.com
-
-- ⚡ Fun fact nothing
 
 
 <br>
