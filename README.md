@@ -16,3 +16,6 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=242424&logoColor=a2200b&labelColor=&style=for-the-badge" height="32" alt="telegram logo"  />
 </div>
 
+
+<br>
+<img src="https://raw.githubusercontent.com/edward1stark/edward1stark/output/snake.svg" alt="Snake animation" />
