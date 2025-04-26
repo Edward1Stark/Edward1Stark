@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning Rf hacking
   
-- 👾 check out my products on www.edwardstark.website
+- 👾 check out my products and blogs on www.edwardstark.website
   
-- 📫 How to reach me edward1stark@gmail.com
+- 📫 How to reach me: through my telegram👇
 
 
 <br>
